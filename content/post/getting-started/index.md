@@ -17,9 +17,7 @@ image:
   preview_only: false
 authors:
 - admin
-tags:
-- Academic
-- 开源
+tags: []
 categories:
 - Demo
 - 教程
