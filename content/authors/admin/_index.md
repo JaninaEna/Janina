@@ -29,7 +29,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Janina-Enachescu
 - icon: osf
-  icon_pack: fab
+  icon_pack: fas
   link: https://osf.io/search/?q=Janina%20Enachescu&page=1
 email: ''
 highlight_name: true
