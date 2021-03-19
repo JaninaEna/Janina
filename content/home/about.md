@@ -14,7 +14,6 @@ weight: 20
 
 title: Biography
 
-This page is still being build...
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
