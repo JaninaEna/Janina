@@ -25,9 +25,17 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 10%
-  icon: camera-retro
+  icon: windows
+  icon_pack: fab
+  name: MS Office
+- description: 10%
+  icon: comment
   icon_pack: fas
-  name: Photography
+  name: English
+- description: 10%
+  icon: comment
+  icon_pack: fas
+  name: French
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
