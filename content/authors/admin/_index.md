@@ -23,10 +23,14 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/janina-enachescu-0b405764/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Janina-Enachescu
 email: ''
 highlight_name: true
 
 ---
-This is Janina.
+This site is still being build.
+Work in progre...
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
