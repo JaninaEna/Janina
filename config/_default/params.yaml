@@ -19,9 +19,9 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-
-email: 
-phone: 
+#
+#email: 
+#phone: 
 address:
   street: 
   city: Vienna
@@ -30,8 +30,8 @@ address:
   country: Austria
   country_code: AT
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '48.185667926109986'
+  longitude: '16.42240598640962'
 directions: 
 office_hours:
   
@@ -40,19 +40,19 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://twitter.com/janina_ena?lang=de'
+#  - icon: skype
+#    icon_pack: fab
+#   name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#   name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#   link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -62,7 +62,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -144,7 +144,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-ZX3C7K86FG'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
