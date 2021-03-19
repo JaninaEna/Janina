@@ -4,10 +4,12 @@ superuser: true
 role: Social scientist
 organizations:
 - name: Statistics Austria
-  url: ''
+  url: 'https://www.statistik.at/web_en/statistics/index.html'
 bio: 'I work at a project leader at Statistics Austria. '
 interests:
+- Social sciences
 - Gender topics
+- Research methodology
 education:
   courses:
   - course: PhD in Psychology
