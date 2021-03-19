@@ -24,7 +24,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/janina-enachescu-0b405764/
+  link: https://at.linkedin.com/in/janina-enachescu-0b405764
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Janina-Enachescu
